@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6532695bf67420f85edbf823"
+  },
+  "nombre_tarea": "Hacer la compra",
+  "prioridad": 2,
+  "vencimiento": "2023-11-15",
+  "estado": "pendiente"
+},
+{
+  "_id": {
+    "$oid": "6532695bf67420f85edbf826"
+  },
+  "nombre_tarea": "Preparar presentación",
+  "prioridad": 2,
+  "vencimiento": "2023-11-25",
+  "estado": "pendiente"
+},
+{
+  "_id": {
+    "$oid": "6532695bf67420f85edbf825"
+  },
+  "nombre_tarea": "Llamar al cliente",
+  "prioridad": 3,
+  "vencimiento": "2023-11-10",
+  "estado": "en progreso"
+},
+{
+  "_id": {
+    "$oid": "6532695bf67420f85edbf824"
+  },
+  "nombre_tarea": "Reunión de trabajo",
+  "prioridad": 1,
+  "vencimiento": "2023-11-20",
+  "estado": "pendiente"
+}]
